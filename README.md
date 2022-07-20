@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShraddhaThumsi
 - 👀 I’m interested in building Machine Learning models to predict risks in financial portfolios of everyday consumers. 
-- I want to take my Machine Learning game to the front to contribute to financial institutions in their risk management teams.
+- I want to take my Machine Learning game to the front to contribute to financial institutions in their portfolio risk management teams.
 - 🌱 I’m currently working in Alterest, a fintech platform that provides a smart portfolio management system for bank and non-bank investors. 
 - 💞️ I have experience in SQL, MS Excel and Python from my previous experience. 
 - I want to collaborate with other fintech enthusiasts to build pet projects on lifetime expected credit losses.
