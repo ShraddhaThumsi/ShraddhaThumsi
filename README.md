@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShraddhaThumsi
-- 👀 I'm here to use the power of machine learning in everyday lives - customers' purchase patterns, drug suitabilities for treatments to cancer and other genetic ailments, and loan default probabilities to name a few. 
+- 👀 I'm here to use the power of machine learning in everyday lives - customers' purchase patterns, drug suitabilities for treatments to cancer, and loan default probabilities to name a few. 
 - 🌱 I’m currently working in Alterest, a fintech platform that provides a smart portfolio management system for bank and non-bank investors.
 - I have also been a Research Assistant at University of Arizona, researching on event-context relations in medical publications on cancer. Hit me up to know more!
 - 💞️ I have experience in Python, Redshift SQL, Scala and Java from my previous experience
